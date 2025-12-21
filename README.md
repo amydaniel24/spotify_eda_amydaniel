@@ -1,6 +1,6 @@
 spotify_eda_amydaniel
 
-Exploratory Data Analysis (EDA) with Spotify Streaming Data
+Plot Like a Pro: Intro to Matplotlib.
 
 This repository contains an Exploratory Data Analysis project using a Spotify tracks dataset. All work was completed by following an instructional walkthrough video for Code:You DA/AUG25.
 
