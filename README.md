@@ -1,10 +1,11 @@
 spotify_eda_amydaniel
 
-Plot Like a Pro: Intro to Matplotlib.
+Exploratory Data Analysis (EDA) with Spotify Streaming Data
 
-This repository contains an Exploratory Data Analysis project using a Spotify tracks dataset. All work was completed by following an instructional walkthrough video for Code:You DA/AUG25.
+This repository contains an Exploratory Data Analysis project using a Spotify tracks dataset. All work was completed by following an instructional walkthrough video as part of a Code:You DA/AUG25 lesson.
 
 The purpose of this project is to practice basic EDA techniques, including inspecting datasets, summarizing variables, identifying missing or unexpected values, and visualizing relationships between features using pandas, matplotlib, and seaborn.
+
 
 
 Project Structure
@@ -37,8 +38,8 @@ Open the notebook located at:
 
 notebooks/spotify_plots_walkthrough.ipynb
 
-Run each cell in order to reproduce the exploratory data analysis and visualizations shown in the lesson walkthrough. Plots are saved to the plots folder.
+Run each cell in order to reproduce the exploratory analysis and visualizations shown in the lesson walkthrough. Plots are saved to the plots folder.
 
 Course Context
 
-This project was completed as part of a Code:You lesson.
+This project was completed as part of a Code:You lesson on Exploratory Data Analysis.
