@@ -1,32 +1,20 @@
-spotify_eda_amydaniel
+# spotify_eda_amydaniel
 
 Exploratory Data Analysis (EDA) with Spotify Streaming Data
 
-This repository contains an Exploratory Data Analysis project using a Spotify tracks dataset. All work was completed by following an instructional walkthrough video as part of a Code:You DA/AUG25 lesson.
+This repository contains a followalong Exploratory Data Analysis project using a Spotify tracks dataset. All work was completed by following an instructional walkthrough video as part of a Code:You DA/AUG25 lesson.
 
 The purpose of this project is to practice basic EDA techniques, including inspecting datasets, summarizing variables, identifying missing or unexpected values, and visualizing relationships between features using pandas, matplotlib, and seaborn.
 
-
-
-Project Structure
-
 spotify_eda_amydaniel/
 |
-|-- data/
-|   |-- Spotify_2024_Global_Streaming_Data.csv
-|   |-- Cleaned_Spotify_2024_Global_Streaming_Data.csv
+├── data/
+|   └── Spotify_2024_Global_Streaming_Data.csv
 |
-|-- notebooks/
-|   |-- spotify_plots_walkthrough.ipynb
+├── notebooks/
+|   └── eda_video_walkthrough.ipynb
 |
-|-- plots/
-|   |-- average_streams_barplot.png
-|   |-- average_streams_by_artist_barplot.png
-|   |-- halfsies_pie_chart.png
-|   |-- pearson_heatmap.png
-|   |-- scatter_pop_plot.png
-|
-|-- README.md
+└── README.md
 
 How to Run This Project
 
@@ -36,10 +24,10 @@ pip install pandas matplotlib seaborn
 
 Open the notebook located at:
 
-notebooks/spotify_plots_walkthrough.ipynb
+notebooks/eda_video_walkthrough.ipynb
 
-Run each cell in order to reproduce the exploratory analysis and visualizations shown in the lesson walkthrough. Plots are saved to the plots folder.
+Run each cell in order to reproduce the exploratory analysis shown in the lesson walkthrough.
 
 Course Context
 
-This project was completed as part of a Code:You lesson on Exploratory Data Analysis.
+This project was completed as part of a Code:You lesson.
