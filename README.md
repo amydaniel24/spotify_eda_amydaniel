@@ -6,7 +6,7 @@ This repository contains a followalong Exploratory Data Analysis project using a
 
 The purpose of this project is to practice basic EDA techniques, including inspecting datasets, summarizing variables, identifying missing or unexpected values, and visualizing relationships between features using pandas, matplotlib, and seaborn.
 
-'''
+
 spotify_eda_amydaniel/
 |
 ├── data/
@@ -16,7 +16,7 @@ spotify_eda_amydaniel/
 |   └── eda_video_walkthrough.ipynb
 |
 └── README.md
-'''
+
 
 How to Run This Project
 
@@ -28,7 +28,7 @@ Open the notebook located at:
 
 notebooks/eda_video_walkthrough.ipynb
 
-Run each cell in order to reproduce the exploratory analysis shown in the lesson walkthrough.
+Run each cell in order to show the EDA for the Spotify data.
 
 Notes
 
